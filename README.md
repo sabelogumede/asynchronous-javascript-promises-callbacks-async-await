@@ -7,6 +7,7 @@
 - 1. What Is A Callback
      Is any function that is passed as an argument to another function, and then invoked from within that function.
 - 2. How to handle errors in Asynchonous Code
+- 3. Callback lack of readability
 
 * Section 3: Testing Callback Function
 
